@@ -1,0 +1,14 @@
+H0                                    = 5.044394
+R0                                    = 0.000000
+H1 with spaces                        = 4.382130
+R1 with spaces                        = 0.131287
+H1 without spaces                     = 4.464625
+R1 without spaces                     = 0.114933
+H2 for intersected with spaces        = 3.978992
+R2 for intersected with spaces        = 0.211205
+H2 for intersected without spaces     = 4.145663
+R2 for intersected without spaces     = 0.178164
+H2 for not intersected with spaces    = 3.978885
+R2 for not intersected with spaces    = 0.211226
+H2 for not intersected without spaces = 4.145533
+R2 for not intersected without spaces = 0.178190
